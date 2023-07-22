@@ -1,0 +1,46 @@
+body {
+  padding: 50px;
+}
+
+.container {
+  background: rgb(217, 233, 244);
+  border-radius: 30px;
+  margin: 0 auto;
+  max-width: 700px;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 40px 0px 15px 0px;
+}
+h2 {
+  font-size: 22px;
+  margin: 0;
+}
+#current-time {
+  font-size: 21px;
+}
+h3 {
+  font-size: 20px;
+}
+h4 {
+  font-size: 35px;
+  margin: 20px 0;
+}
+.info {
+  position: relative;
+  left: 290px;
+  top: -150px;
+}
+.search {
+  position: relative;
+  left: 300px;
+  top: -190px;
+}
+.week {
+  position: relative;
+  top: -120px;
+  font-size: 19px;
+  margin-bottom: 0px;
+}
